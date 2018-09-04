@@ -36,26 +36,26 @@ https://github.com/Bearcat202020/MergeAndRemote
 **Q8-**
 
 # Branching Structure #
-* commit 6c7cc711f9417b5aaa4d64333da03ec2a634f226
-| Author: Vaughn Ramsey <vramsey20@slp-vramsey20.local>
-| Date:   Tue Sep 4 14:26:27 2018 -0600
-|
-|     edited file.txt
-|
-* commit 7f785be25f25d2e64313c1e18ae15ce805ec9f13
-| Author: Vaughn Ramsey <vramsey20@slp-vramsey20.local>
-| Date:   Tue Sep 4 14:21:42 2018 -0600
-|
-|     updated readme
-|   
-*   commit f87cc6a99cfed1c55d161e175ada3c62144d2178
-|\  Merge: 73468ed 662860e
-| | Author: getsnug <vramsey20@kentdenver.org>
-| | Date:   Fri Aug 31 08:57:59 2018 -0600
-| |
-| |     Merge pull request #1 from Bearcat202020/personB
-| |     
-| |     Person b
-| |   
-| *   commit 662860e9a92c2a149feccee121fa09e28e51a79d
-| |\  Merge: 0996440 a88d344
+	* commit 6c7cc711f9417b5aaa4d64333da03ec2a634f226
+	| Author: Vaughn Ramsey <vramsey20@slp-vramsey20.local>
+	| Date:   Tue Sep 4 14:26:27 2018 -0600
+	|
+	|     edited file.txt
+	|
+	* commit 7f785be25f25d2e64313c1e18ae15ce805ec9f13
+	| Author: Vaughn Ramsey <vramsey20@slp-vramsey20.local>
+	| Date:   Tue Sep 4 14:21:42 2018 -0600
+	|
+	|     updated readme
+	|   
+	*   commit f87cc6a99cfed1c55d161e175ada3c62144d2178
+	|\  Merge: 73468ed 662860e
+	| | Author: getsnug <vramsey20@kentdenver.org>
+	| | Date:   Fri Aug 31 08:57:59 2018 -0600
+	| |
+	| |     Merge pull request #1 from Bearcat202020/personB
+	| |     
+	| |     Person b
+	| |   
+	| *   commit 662860e9a92c2a149feccee121fa09e28e51a79d
+	| |\  Merge: 0996440 a88d344
