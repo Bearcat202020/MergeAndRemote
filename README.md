@@ -31,11 +31,11 @@ https://github.com/Bearcat202020/MergeAndRemote
 
 **Q7-**
 
-## It didnt delete locally on person B's machine. ##
+##It didnt delete locally on person B's machine.##
 
 **Q8-**
 
-#Branching Structure
+# Branching Structure #
 * commit 6c7cc711f9417b5aaa4d64333da03ec2a634f226
 | Author: Vaughn Ramsey <vramsey20@slp-vramsey20.local>
 | Date:   Tue Sep 4 14:26:27 2018 -0600
