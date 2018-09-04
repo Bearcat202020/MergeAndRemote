@@ -3,35 +3,35 @@
 https://github.com/Bearcat202020/MergeAndRemote
 **Q1- What does clone set the variable origin to represent?**
 
-##clone sets origin to represent the remote repo that one wants to track##
+## clone sets origin to represent the remote repo that one wants to track ##
 
 **Q2- What does the command git push --set-upstream origin master do?**
 
-##What does remote tracking mean in this context?##
+## What does remote tracking mean in this context? ##
 :sparkles:
 
-##it sets the origin variable a specified url. The remote tracking means that the origin tracks the local repo##
+## it sets the origin variable a specified url. The remote tracking means that the origin tracks the local repo ##
 
 **Q3-**:camel:
 
-##It pulls from master and merges with the current checked out branch.##
-##now the current branch is up to date with master.##
+## It pulls from master and merges with the current checked out branch. ##
+## now the current branch is up to date with master. ##
 
 **Q4-**:rocket:
 
-##No they aren't they are merged with masters commits##
+## No they aren't they are merged with masters commits ##
 
-**Q5-**:octocat:
-
-##It is a merge, you still have the commit history##
+**Q5-****:octocat:**
+ 
+## It is a merge, you still have the commit history ##
 
 **Q6-**:metal:
 
-##It is still behind the remote##
+## It is still behind the remote ##
 
 **Q7-**
 
-##It didnt delete locally on person B's machine.##
+## It didnt delete locally on person B's machine. ##
 
 **Q8-**
 
