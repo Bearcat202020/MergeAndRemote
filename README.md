@@ -36,6 +36,7 @@ https://github.com/Bearcat202020/MergeAndRemote
 **Q8-**
 
 # Branching Structure #
+```
   * commit 4a0006afec24ae25a02e8e4e8fd2225b8e5ecf66 (HEAD -> master)
   | Author: Bearcat2020 <jbarakat20@kentdenver.org>
   | Date:   Tue Sep 4 14:52:10 2018 -0600
@@ -153,3 +154,4 @@ https://github.com/Bearcat202020/MergeAndRemote
     Date:   Fri Aug 31 08:08:04 2018 -0600
 
         Initial commit
+```
